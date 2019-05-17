@@ -1,0 +1,8 @@
+dash==0.41.0
+plotly
+gunicorn
+
+pandas==0.23.0
+numpy==1.14.3
+jsonschema==2.6.0
+flatten-json==0.1.6
